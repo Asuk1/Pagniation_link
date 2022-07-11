@@ -1,6 +1,6 @@
 
-import About from './pages/About.js';
-import Home from './pages/Home.js';
+import About from './About.js';
+import Home from './Home.js';
 import './App.css';
 
 
