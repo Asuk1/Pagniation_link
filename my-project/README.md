@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Resume
+It's a personnal project in Ract js that had pagination and link for different purpose to learn more about me.
+
+# Activity
+Project in redaction and suspention. I will upgrade it later
+
 ## Available Scripts
 
 In the project directory, you can run:
